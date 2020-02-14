@@ -22,5 +22,5 @@ Link to the [Project Issues](https://gitlab.iotiot.in/newbies/iot-internship-feb
 #### Step 3 : Summarize :
 Write a summary of all your findings in the project **Issues**. Issues where you put all your summaries are tagged `Summary`.
 
-Link to [Project Issues](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module2/issues)
+Link to [Project Issues](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/issues)
 
