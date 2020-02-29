@@ -20,3 +20,7 @@ Write a summary of all your findings in the project **Issues**. Issues where you
 
 Link to [Project Issues](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/issues)
 
+
+## Have Questions about the Process ?
+
+- See our [FAQ section](FAQ.md)
