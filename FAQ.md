@@ -1,5 +1,5 @@
 # Module 1: FAQ
-
+<!--
 ## Choosing Persona's
 
 ### Q : Can I change persona's after this module?
@@ -9,6 +9,7 @@ persona end-to-end then you can apply for a different persona in the next intern
 ### Q : I am confused in choosing the persona, how do I get clarity?
 **Ans** : Please checkout the Product skilling Flow chart for IoT [here](extras/01.png), 
 and choose the pathway which resonates with you.
+-->
 
 ## Module Completion
 
