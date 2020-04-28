@@ -15,7 +15,7 @@ Choices of the persona's are -
 Read the course Material. You will find the course material
 in the Wiki of the project.
 
-Link to the [Course material](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/issues/14)
+Link to the [Course material](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/wikis/home)
 
 Once you are done with the Course Material we will have a discussion Video
 call.
