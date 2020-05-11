@@ -1,8 +1,9 @@
 # Module 1 - Get aligned with the industry.
 
 ## What will you be learning in this Module ?
-1. Intoduction to IoT
 1. Industrial IoT 
+2. Industry 3.0 & Industry 4.0 
+3. Converting Indusry 3.0 devices to Industry 4.0
 
 ## Mastery Process
 
@@ -11,7 +12,7 @@
 3. Practice - Practice all your understandings, This where your brain learns the most.
 
 
-### Process --> Gitlab Map
+### Mastery Process --> Gitlab Map
 
 1. Find all the reading material for the Module in the [Wiki](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/wikis/home)
 2. Find Steps for Assignments (Summarize + Practice) in the [Issues](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/issues)
