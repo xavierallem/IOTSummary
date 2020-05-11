@@ -1,40 +1,21 @@
 # Module 1 - Get aligned with the industry.
 
-## How to complete this module?
+## What will you be learning in this Module ?
+1. Intoduction to IoT
+1. Industrial IoT 
 
-<!--
-#### Step 1 : Choose a persona :
-Choices of the persona's are - 
-1. Product Innovator  
-2. Premium Job seeker
+## Mastery Process
 
--->
-
-#### Step 1 : Learn :
-
-Read the course Material. You will find the course material
-in the Wiki of the project.
-
-Link to the [Course material](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/wikis/home)
-
-Once you are done with the Course Material we will have a discussion Video
-call.
-
-**Note**: For those who cannot attend the call the call will be recorded and 
-uploaded so that you can watch it.
+1. Understand - Read and try to understand the topics for the Module.
+2. Summarize - Re-enforcing critical parts of the subject by writing them down in a short and concise Summary.
+3. Practice - Practice all your understandings, This where your brain learns the most.
 
 
-#### Step 2 : Summarize :
-Write a summary of all your findings in the project **Issues**. Issues where you write all your summaries are tagged `Summary`.
+### Process --> Gitlab Map
 
-Link to [Project Issues](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/issues)
-
-#### Step 3 : Practice (Take up a study) :
-
-You will find the instructions to study 
-in the issues of this project.
-
-Link to the [Project Issues](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/issues)
+1. Find all the reading material for the Module in the [Wiki](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/wikis/home)
+2. Find Steps for Assignments (Summarize + Practice) in the [Issues](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/issues)
+3. After completion of both Summary assignments and Practice Assignments submit your module for grading in [Issues](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/issues)
 
 
 ## Have Questions about the Process ?
