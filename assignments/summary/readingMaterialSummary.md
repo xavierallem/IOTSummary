@@ -17,3 +17,17 @@
 >   - 12- 24 V DC
 >   - 2 x 3 redundant battery modules
 >   - Accumulator with solar panel
+
+- ### CP 1542SP-1 IRC
+
+![RTU](extras/6.PNG)
+
+ 
+> **Key Points**                                                              
+> - **Communication connection** - The CP 1542SP-1 IRC communications processor connects the ET 200SP Distributed Controller with Industrial Ethernet networks. In addition, control centers can be connected using various telecontrol protocols. 
+> - **Inputs / Outputs** - Uses I/O Modules
+>
+> - **Temperature range** - -30°C to +60 °C
+> - **Power supply** - 24v
+> - **CPU** - 2
+> - Number of interfaces acc. to Industrial Ethernet - 1
