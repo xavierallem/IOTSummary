@@ -30,4 +30,4 @@
 > - **Temperature range** - -30°C to +60 °C
 > - **Power supply** - 24v
 > - **CPU** - 2
-> - Number of interfaces acc. to Industrial Ethernet - 1
+> - **Number of interfaces acc. to Industrial Ethernet** - 1
