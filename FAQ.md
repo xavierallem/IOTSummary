@@ -19,6 +19,4 @@ your assignments. If you get grades above 40, then you get access to the next mo
 Else you get to repeat the module.
 Access to the next module will be granted to you by the mentor.
 
-## Want to give Feedback to this module?
-Please write all your feedback in this [issue](https://gitlab.iotiot.in/newbies/iot-internship-feb-20/module1/issues/9).
 
